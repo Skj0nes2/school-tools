@@ -3,15 +3,15 @@
 Welcome, school tools is a colection of "tools" or games, movies, etc which ever you prefer to call it.
 
 To download:
-   * Click "Code"
-   * Then click "Download zip"
+   1. Click "Code"
+   2. Then click "Download zip"
 
 To use:
    After downloading:
 
-   * Extract the file (most commonly done by right clicking on the file and selecting extract, you can also use an online tool)
-   * Open the new folder
-   * Double click on "index.html"
+   1. Extract the file (most commonly done by right clicking on the file and selecting extract, you can also use an online tool)
+   2. Open the new folder
+   3. Double click on "index.html"
 
 
 Hosting:
