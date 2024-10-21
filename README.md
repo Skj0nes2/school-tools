@@ -12,3 +12,13 @@ To use:
    * Extract the file (most commonly done by right clicking on the file and selecting extract, you can also use an online tool)
    * Open the new folder
    * Double click on "index.html"
+
+
+Hosting:
+
+   This can be hosted on github pages and many other varius hostees
+
+   * Github pages:
+        To install on github pages fork this repo, go to "Settings", then "Pages", finally under "Branch", click on "None" and select "main"
+
+   * Other hosting guides coming soon!
