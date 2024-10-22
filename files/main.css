@@ -1,5 +1,106 @@
 #title{
   font-family: 'Times New Roman', Verdana, Sans-Serif, Arial;
   font-weight: 900 bolder;
-  font-size: 42px;
+  font-size: 32px;
+}
+#navBar{
+  text-align: center;
+  padding-top: 5px;
+}
+.navLink{
+  color: white;
+  font-family: Verdana, Sans-Serif, Arial;
+  text-decoration: none;
+  font-weight: 200 bold;
+  font-size: 14px;
+}
+header{
+  background-color: rgb(50, 50, 55);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: solid black 2px;
+  border-radius: 5px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+body{
+  background-color: rgb(37,41,48);;
+  color: white;
+}
+main{
+  background-color: rgb(37,41,48);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: solid black 2px;
+  border-radius: 5px;
+  margin-top: 133px;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  position: fixed;
+}
+footer{
+  background-color: rgb(50, 50, 55);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: solid black 2px;
+  border-radius: 5px;
+  margin-top: 2px;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  position: absolute;
+}
+.footLink{
+  color: white;
+  font-family: Verdana, Sans-Serif, Arial;
+  text-decoration: none;
+  font-weight: 200 bold;
+  font-size: 14px;
+  padding-left: 4px;
+}
+#description{
+  color: white;
+  font-family: Sans-Serif, Verdana, Arial;
+  font-weight: 300 bolder;
+  text-align: center;
+}
+#descBox{
+  text-align: center;
+}
+.button{
+  display: inline;
+  color: white;
+  text-decoration: none;
+  font-weight: 500 bold;
+  font-size: 18px;
+  border: outset;
+  border-radius: 5px;
+  border-left-color: rgb(50, 50, 55);
+  border-top-color: rgb(50, 50, 55);
+  border-right-color: rgb(40, 40, 45);
+  border-bottom-color: rgb(40, 40, 45);
+  margin-left: 4px;
+  padding-bottom: 5px;
+  margin-top: 5px;
+  padding: 2px;
+}
+.buttonRow{
+  text-align: center;
+  margin-top: 3px;
+}
+.button:hover{
+  background-color: rgb(50, 50, 55);
+}
+.button:active{
+  border: inset;
+  border-left-color: rgb(40, 40, 45);
+  border-top-color: rgb(40, 40, 45);
+  border-right-color: rgb(50, 50, 55);
+  border-bottom-color: rgb(50, 50, 55);
 }
