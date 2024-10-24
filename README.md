@@ -5,7 +5,7 @@
 Welcome, school tools is a collection of "tools" or games, movies, etc which ever you prefer to call it.
 </h4><br>
 
-> [!IMPORTANT]
+> [!IMPORTANT] 
 > <b>To download:
 >   1. Click "Code"
 >   2. Then click "Download ZIP"
