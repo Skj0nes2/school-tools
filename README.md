@@ -8,7 +8,7 @@ Welcome, school tools is a collection of "tools" or games, movies, etc which eve
 > [!IMPORTANT]
 > <b>To download:
 >   1. Click "Code"
->   2. Then click "Download zip"
+>   2. Then click "Download ZIP"
 >
 >To use:
 >   After downloading:
